@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 86 in 69 lines: 889 · +.000 · 7.008 · 005 · 1.108 · +.000 · ~.O03 · +.000 · 2.074 · +.000 · 2.188 005 · +.000
 - **Title block:** (245, 22)–(416, 90) mm: IISSUE| DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN: MRW 5//86 · M524A · ENG MRW 5/86 · CKD. · Front Panel Display Screens · APP · SCALE DISC NO: M5oO-1 · ISSUE · 1/1 CODE: MM524-3 · 524-03-
 
-Every curve, box, word and wire group: [19xx - M524A - DOC - 524-03-103 - FRONT PANEL DISPLAY SCREENS (traced).json](../MECHANICAL/19xx%20-%20M524A%20-%20DOC%20-%20524-03-103%20-%20FRONT%20PANEL%20DISPLAY%20SCREENS%20(traced).json) (the CAD file: `19xx - M524A - DOC - 524-03-103 - FRONT PANEL DISPLAY SCREENS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M524A - DOC - 524-03-103 - FRONT PANEL DISPLAY SCREENS (traced).json](../MECHANICAL/19xx%20-%20M524A%20-%20DOC%20-%20524-03-103%20-%20FRONT%20PANEL%20DISPLAY%20SCREENS%20%28traced%29.json) (the CAD file: `19xx - M524A - DOC - 524-03-103 - FRONT PANEL DISPLAY SCREENS (traced).dxf`).
 
 ## Full text
 

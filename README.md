@@ -1,6 +1,6 @@
 # M524A 24V Dual Lamp Relay Power Supply · Computers
 
-Ward-Beck Systems M524A, 1986|19. Wiki page: [M524A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M524A.html)
+Ward-Beck Systems M524A, 1986|19. Wiki page: [M524A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMPUTERS.M524A-24V-Dual-Lamp-Relay-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|
